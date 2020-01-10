@@ -1,0 +1,12 @@
+package tools;
+
+public enum KindOfRouteEnum {
+
+	ONE_FLOOR, 
+	STAIR_ROUTE, 
+	COMPOSITE_ROUTE,
+	START_COMPOSITE_ROUTE, 
+	FINISH_COMPOSITE_ROUTE,
+	NO_ROUTE
+
+}

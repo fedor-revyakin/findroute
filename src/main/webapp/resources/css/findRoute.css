@@ -1,0 +1,68 @@
+#page{
+	display: table;
+}
+
+#rowPage{
+	display: table-row;
+	text-align: center;
+
+}
+
+
+.columnPage{
+		display: table-cell;
+		border-spacing: 5px;
+		
+
+}
+
+
+
+#navigation {
+	display: table;
+
+}
+
+.rowNavigation{
+	display: table-row;
+
+}
+
+.inputData_columnNavigation{
+	display: table-cell;
+
+
+}
+#inputData {
+	display: table;
+	
+	
+}
+
+.rowInput{
+	display: table-row;
+
+}
+
+.columnInput {
+	display: table-cell;
+	padding-left: 5px;
+
+}
+
+.inputFloor{
+	width: 80px;
+}
+
+.inputSubject{
+	width: 120px;
+}
+
+#view{
+	display: table-cell;
+	width: 1200px;
+
+}
+
+
+

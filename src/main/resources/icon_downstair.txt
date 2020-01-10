@@ -1,0 +1,7 @@
+30.0
+45.0
+<path d="M 29.081 14.089 C 29.288 23.572 17.612 35.837 14.987 35.837 C 12.575 35.837 9.173 31.401 8.402 30.446 C 5.591 26.963 0.835 21.422 0.872 14.145 C 0.918 5.076 8.668 0 14.827 0 C 21.032 0 28.874 4.606 29.081 14.089 Z" style="fill: rgb(255, 166, 0); pointer-events: none;"/>
+<circle style="fill: rgb(255, 166, 0);" cx="15.011" cy="41.365" r="3.458"/>
+<path d="M 3.58 11.512 L 3.58 16.549 L 10.028 16.549 L 10.028 21.77 L 16.93 21.77 L 16.93 26.971 L 22.343 26.971" style="stroke: rgb(0, 0, 0); fill: none; fill-rule: evenodd; stroke-linecap: square; stroke-linejoin: round; stroke-width: 1.5px;" transform="matrix(-1, 0, 0, -1, 25.923, 38.483001)"/>
+<path d="M -1.985 15.279 H 6.611 L 5.611 12.509 L 13.611 16.664 L 5.611 20.818 L 6.611 18.048 H -1.985 V 15.279 Z" style="stroke-linejoin: round; stroke-linecap: square;" transform="matrix(0.809529, 0.58708, 0.58708, -0.809529, 4.816131, 21.47472)" bx:shape="arrow -1.985 12.509 15.596 8.309 2.769 8 1 1@abd24fff"/>
+</g>
